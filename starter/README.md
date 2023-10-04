@@ -1,4 +1,4 @@
-# Marketing Agency Website Refactor
+# Marketing Agency Website Refractor
 
 This project aims to improve the accessibility and search engine optimization of a marketing agency website by implementing Semantic HTML and optimising image alt attributes.
 
