@@ -22,10 +22,7 @@ By using tags like <footer>, <article>, <header>, and <nav>, we’ve organized t
 
 ## Image Alt Attributes
 
-Optimising image alt attributes is crucial for accessibility and SEO. All images now have descriptive alt attributes:
-
-<img src="./assets/images/search-engine-optimization.jpg" alt="Notepad with SEO attributes">
-<img src="./assets/images/online-reputation-management.jpg" alt="Animated reputation graph and pie chart on laptop screen">
+Optimising image alt attributes is crucial for accessibility and SEO. All images now have descriptive alt attributes as seen in screenshot above.
 
 These alt attributes provide context and improve accessibility for users who rely on screen readers or encounter image loading issues.
 
