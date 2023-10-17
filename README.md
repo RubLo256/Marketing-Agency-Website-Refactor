@@ -1,4 +1,4 @@
-# Marketing Agency Website Refractor
+# Marketing Agency Website Refactor
 
 This project aims to improve the accessibility and search engine optimization of a marketing agency website by implementing Semantic HTML and optimizing image alt attributes.
 
@@ -18,7 +18,7 @@ In this project, we are enhancing the structure and accessibility of a marketing
 Semantic HTML tags provide meaningful structure to web content. Here are some examples of how we've incorporated Semantic HTML:
 ![Alt text](<Screenshot 2023-10-03 at 23.39.56-2.png>)
 
-By using tags like <footer>, <header>, and <nav>, we’ve organized the content in a way that’s easy for both users and search engines to understand.
+By using tags like footer, header, and nav we’ve organized the content in a way that’s easy for both users and search engines to understand.
 
 ## Image Alt Attributes
 
