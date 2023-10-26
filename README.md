@@ -12,11 +12,14 @@ This project aims to improve the accessibility and search engine optimization of
 ## Introduction
 
 In this project, we are enhancing the structure and accessibility of a marketing agency website. By using Semantic HTML elements and optimizing image alt attributes, we aim to make the website more user-friendly, accessible, and search engine friendly.
+![Alt text](Screenshots/Screenshot01.png)
+![Alt text](Screenshots/Screenshot02.png)
+
 
 ## Semantic HTML
 
 Semantic HTML tags provide meaningful structure to web content. Here are some examples of how we've incorporated Semantic HTML:
-![Alt text](<Screenshot 2023-10-03 at 23.39.56-2.png>)
+![Alt text](Screenshots/Screenshot03.png)
 
 By using tags like footer, header, and nav we’ve organized the content in a way that’s easy for both users and search engines to understand.
 
@@ -25,6 +28,14 @@ By using tags like footer, header, and nav we’ve organized the content in a wa
 Optimizing image alt attributes is crucial for accessibility and SEO. All images now have descriptive alt attributes as seen in the screenshot.
 
 These alt attributes provide context and improve accessibility for users who rely on screen readers or encounter image loading issues.
+
+## Deployment
+
+To deploy and run this project, follow these steps:
+
+1. **Click this link for the deployed version**: https://rublo256.github.io/Marketing-Agency-Website-Refactor/
+
+2. **Clone the Repository**: Clone this repository to your local machine using Git: https://github.com/RubLo256/Marketing-Agency-Website-Refactor.git
 
 ## Conclusion
 
