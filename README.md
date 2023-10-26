@@ -6,8 +6,8 @@ This project aims to improve the accessibility and search engine optimization of
 - [Introduction](#introduction)
 - [Semantic HTML](#semantic-html)
 - [Image Alt Attributes](#image-alt-attributes)
-- [Accessibility Standards](#accessibility-standards)
-- [SEO Optimization](#seo-optimization)
+- [Deployment](#deployment)
+- [Conclusion](#conclusion)
 
 ## Introduction
 
